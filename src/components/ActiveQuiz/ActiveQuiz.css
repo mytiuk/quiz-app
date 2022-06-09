@@ -1,0 +1,19 @@
+.ActiveQuize {
+  background: linear-gradient(90deg, rgb(59, 114, 190) 40%,  #3b336f 100%);
+  color: #fff;
+  padding: 20px;
+  border: 1px solid rgb(186, 182, 182);
+  border-radius: 30px;
+  margin: 0 10px;
+  box-sizing: border-box;
+}
+
+.ActiveQuize:hover {
+  border: 1px solid #aaa4a4;
+  box-shadow: 0 5px 15px 0 #fff;
+}
+
+.Question {
+  font-size: 20px;
+  text-align: center;
+}
